@@ -43,20 +43,6 @@ The dataset used in this project contains labeled DNS traffic data, including bo
 - The deep learning model showed a promising ability to classify DNS traffic effectively.
 - The results demonstrated a significant improvement over traditional machine learning techniques, achieving higher accuracy in identifying malicious activities.
 
-## How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sharma-creator/Malicious-DNS-Traffic-Detection-using-Deep-Learning.git
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-
-3. Run the model:
-   ```bash
-   python main.py
-
 ## Future Improvements
 
 - Real-Time Detection: Integrating the model with a real-time DNS traffic stream for continuous monitoring.
